@@ -3,8 +3,8 @@ googledrive-api-php-sdk derived from Original Google API client written by Imdad
 
 Get GOOGLE API CLIEN v2 via composer:
 
-- composer require google/apiclient:"^2.0"
-- add composer's "autoload.php" file with absolute path in "gdrive_config.php" file.
+1. composer require google/apiclient:"^2.0"
+2. add composer's "autoload.php" file with absolute path in "gdrive_config.php" file.
 
 
 
