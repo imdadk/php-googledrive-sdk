@@ -21,7 +21,7 @@ Get Credentials From Google Developer Console:
 Verify any google drive account (Only for first time):
 
 1. Set all credentials in to "gdrive_config.php" which you got from google developer console.
-2. Run gdrive_config.php, From that you will get the refreshToken.
+2. Run gdrive_verify.php, From that you will get the refreshToken.
 3. Configure refreshToken in "gdrive_config.php" file.
 
 
